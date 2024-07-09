@@ -1,0 +1,25 @@
+{
+  "name": "search-bot-tg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cacalot123/search-bot-tg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cacalot123/search-bot-tg/issues"
+  },
+  "homepage": "https://github.com/cacalot123/search-bot-tg#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
